@@ -1,6 +1,6 @@
 <template>
-    <div class="w-100 bg-danger">
-       ciao
+    <div class="w-100">
+        <img class="img-fluid" src="/jumbotron.jpg">
     </div>
 </template>
 
