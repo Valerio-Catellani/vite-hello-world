@@ -5,14 +5,15 @@
 </template>
 
 <script>
-    export default {
-        name: "TitleComponent",
-        data() {
-            return {
-                title: "Hello World!!!"
-            }
-        }
+ export default {
+    name: 'TitleComponent',  
+
+    data() {
+      return {
+        title: 'Hello World!'
+      }
     }
+  }
 </script>
 
 <style lang="scss" scoped>

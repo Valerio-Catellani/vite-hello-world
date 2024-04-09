@@ -2,6 +2,7 @@
   <div id="card-container" class="d-flex flex-column container align-items-center">
         <TitleComponent/>
         <Jumbotron/>
+        <p>click on dice to roll</p>
   </div>
 </template>
 
@@ -12,7 +13,7 @@ import TitleComponent from './components/TitleComponent.vue';
     name: 'App',
     components: {
       Jumbotron,
-      TitleComponent
+      TitleComponent,
     },
     data() {
       
